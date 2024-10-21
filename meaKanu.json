@@ -1,0 +1,1058 @@
+[
+  {
+    "inoa": "ʻAʻaliʻi",
+    "description": "An easy to grow native Hawaiian evergreen species that comes in many forms and has a variety of uses in the landscape as a tree, hedge, windbreak, or even serve as a screening plant. It can be cultivated from sea-level to areas of higher elevation with its height being determined by elevation, sunlight, and the amount of water it receives and can grow to be 24 feet in height. ʻAʻaliʻi grows at a moderate rate, is highly wind, drought, and salt-tolerant, and thrives in well-drained soils.",
+    "scientificName": "Dodonaea viscosa",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻAeʻae",
+    "description": "ʻAeʻae is native to Hawaiʻi as well as many other tropical regions. By rooting at each node, this sprawling groundcover can colonize mud, sand flats, marshes, and around brackish streams. Eventually, it can form a dense mat several inches thick and does well in moist sand or soil, and prefers to be in areas with full sun.",
+    "scientificName": "Bacopa monnieri",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["WET"]
+  },
+  {
+    "inoa": "ʻAhuʻawa",
+    "description": "ʻAhuʻawa is a flood-tolerant species in the sedge family, Cyperaceae, that grows anywhere from sea-level to 3,000 feet in elevation. This sedge is salt-tolerant and is known to do well in a variety of growing conditions as it can be planted along streams to help mitigate erosion while also being known to flourish in dry environments as well. It prefers highly saturated soils, requires a stable water source, and does best in areas where it receives full to partial sun.",
+    "scientificName": "Cyperus javanicus",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["WET"]
+  },
+  {
+    "inoa": "ʻĀkala",
+    "description": "ʻĀkala is an endemic Raspberry related to Blackberry and is a shrub that can reach up to 15 feet in height. It produces large edible berries that resemble Blackberries and has small sharp hairs that resemble thorns but are not nearly as sharp. It can be described as being somewhat deciduous as it loses its leaves during the winter season. ʻĀkala grows best in areas of higher elevation (3,000 – 9,000 ft.) in spots where it receives full or partial sunlight and requires regular water as it does best in well-saturated soils.",
+    "scientificName": "Rubus hawaiensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻĀkia",
+    "description": "ʻĀkia is endemic to the Hawaiian Islands, and creates a dense, shrub-like ground cover growing up to 3 feet in height and having an equal width. This small shrub is wind, drought, and salt-tolerant and prefers to be cultivated in areas that receive direct sunlight. It responds positively to pruning and can be useful in the landscape where there are banks or as a ground cover. There are several species of ʻĀkia on Hawaiʻi Island and depending on its growth form, it can be used to effectively shade out pesky weeds while filling in empty spaces throughout the landscape.",
+    "scientificName": "Wikstroemia spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "‘Ākulikuli",
+    "description": "‘Ākulikuli is an indigenous coastal plant species that can be described as being a low-lying ground cover having succulent green leaves, red stems, and light purple flowers. It is commonly grown on rocky or sandy beaches, or around marches and estuaries and forms dense mats in these areas. ‘Ākulikuli is highly wind, drought, and salt-tolerant and grows best in areas with full sun.",
+    "scientificName": "Sesuvium portulacastrum",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Alaheʻe",
+    "description": "This native species, which is in the coffee family, showcases dark glossy foliage and blooms periodically throughout the year. With nutrient-rich well-drained soils and a regular feeding and watering schedule, Alaheʻe can grow to be 30 feet in height forming an attractive evergreen shrub or small tree. It does best in elevations from sea-level to upwards of 3,000 feet and should be planted in areas where it receives full to partial sunlight. Alaheʻe is also drought and wind tolerant while being quite salt-tolerant as well.",
+    "scientificName": "Psydrax odorata",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Alani",
+    "description": "Alani is a long-lived  endemic shrub or tree species that can grow to be anywhere from 6 to 15 feet in height depending on its location. It is commonly found in mesic to wet forests from about 1,200 to 4,000 feet in elevation and prefers to be grown in areas where there is lots of moisture and is exposed to partial sun. This species requires cool, moist, and well-drained soils to thrive. It does not tolerate full sun so it should be planted in an area that is partially shaded where it is not exposed to strong winds.",
+    "scientificName": "Melicope spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["WET"]
+  },
+  {
+    "inoa": "ʻAmaʻu",
+    "description": "This endemic tree fern is defined by its bright right red new growth and its singular, compact leaf form. ʻAmaʻu is commonly found in areas of higher elevation mesic and wet forests and pioneer shrublands. While it can tolerate full sun it does best when it has some protection from the direct mid-day sunlight. It is wind tolerant, requires wet and somewhat moist growing conditions, as well as cinder based soils that are well-drained.",
+    "scientificName": "Sadleria spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻĀweoweo",
+    "description": "ʻĀweoweo is a shrub or small tree that can be cultivated in areas from coastal dryland forests up to subalpine shrublands and can be anywhere from 2 to 8 feet in height. This versatile plant can be used as an accent, ground cover, or hedge, and once it is fully established it does not require regular water unless there are prolonged periods of drought. It can be grown in full sun or partial shade and is drought, wind, salt, and heat tolerant.",
+    "scientificName": "Chenopodium oahuense",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "Hala",
+    "description": "This evergreen tree species is primarily grown in coastal habitats and can form monotypic forest stands where it can grow to be 30 feet in height. When fully mature it provides ample amounts of shade and can be used as a windbreak. Hala does best in well-drained, sandy soils and can tolerate salt spray, heavy winds, and direct sunlight.",
+    "scientificName": "Pandanus tectorius",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "WET"]
+  },
+  {
+    "inoa": "Hāpuʻu",
+    "description": "This tree fern, which is endemic to the Hawaiian Islands, is one of the most commonly found fern species in mesic and wet forest understories. Hāpuʻu is a slow-growing tree fern that can grow to be 15 feet in height being easily identified by its large arching fronds. It can be grown in areas where it receives full sun or partial shade but must have lots of moisture and well-drained soils where it is planted. It does best in areas where it is protected from the hot sun and drying winds in lowland locations and also provides a canopy for shade-loving plants in the understory.",
+    "scientificName": "Cibotium spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Hōʻawa",
+    "description": "There are several native species of Hōʻawa on Hawaiʻi Island all of which can reach 30 feet in height, forming a dense canopy of leaves upon reaching full maturity. It has multiple uses in the landscape as it can serve as a screen or accent while also being used to fill in large portions of open areas. Hōʻawa thrives in areas where it receives full sun and if it is planted in well-drained soil mixtures.",
+    "scientificName": "Pittosporum spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "ʻIeʻie",
+    "description": "ʻIeʻie is an epiphytic woody climber that can be found clinging to trees or sprawling across the forest floor like a ground cover. It is most commonly found growing in lowland mesic to wet forest habitats from about 1,000 to 5,000 feet in elevation. This vine-like species does best in areas where it receives ample amounts of moisture and shade, and when it is planted in nutrient-rich, well-drained soils. As a climbing plant species, it is recommended to plant ʻIeʻie next to strong forest trees like Koa or ʻŌhiʻa.",
+    "scientificName": "Freycinetia arborea",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻIliahi",
+    "description": "ʻIliahi, also known as Sandalwood, can be categorized as being small shrubs or trees that grow to be 16 to 33 feet when fully mature and has a slow-to-moderate growth rate. As a result of its hemiparasitic nature, ʻIliahi requires one or more host plants making intercropping essential for long-term viability. Sandalwood does best in moist, well-drained soils where it receives full or partial sunlight. It tolerates moderate levels of drought and wind disturbances and is susceptible to waterlogging and root rot if planted in substrates that do not have good drainage.",
+    "scientificName": "Santalum paniculatum",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "ʻIliahi aloʻe",
+    "description": "ʻIliahi aloʻe is a coastal Sandalwood species that grows as a low lying shrub or small tree that can reach heights of 30 feet while having a spread of 10 feet or more. It is commonly found growing in a variety of habitats from sea-level up to 3,000 feet in elevation but does best in lowland dry to mesic forest environments. Coastal Sandalwood is also hemiparasitic so it does best when intercropped with host plants and prefers to be cultivated in areas where it receives full sun. It has been shown to be wind, drought, heat, and salt-tolerant as well.",
+    "scientificName": "Santalum ellipticum",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "ʻIlima",
+    "description": "This plant, which can be described as a sprawling ground cover or shrub, has multiple uses within the landscape as it can serve as an accent, provide erosion control, as a ground cover, for hedges or screening, as well as a specimen plant. ʻIlima is commonly found in coastal areas, dryland forests, as well as mesic forests from sea-level up to 6,500 feet in elevation. It likes to grow in areas where the conditions are dry and it is exposed to full sun. It is also drought, heat, wind, and salt-tolerant and likes to be cultivated in light soils that have good drainage.",
+    "scientificName": "Sida fallax",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "ʻIlieʻe",
+    "description": "This herbaceous, woody shrub has many functions in the landscape as it can serve as an accent, ground cover, or hedge, and is an ideal plant species to help mitigate soil erosion. ʻIlieʻe can grow in both full sun and partial shade and is highly drought, wind, and heat tolerant. Although it can survive in dry conditions, it does best when it receives regular water and is planted in well-drained soils.",
+    "scientificName": "Plumbago zeylanica",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "WET"]
+  },
+  {
+    "inoa": "Kanawao",
+    "description": "Kanawao is Hawaiʻi’s endemic Hydrangea and is most commonly found in montane wet forests throughout the Hawaiian Islands from 1,000 to 7,000 feet in elevation. This species has adapted to low light conditions as it grows in the understory of many native forests and does best when it is planted in a location where it receives partial sunlight in moist, well-drained soils.",
+    "scientificName": "Hydrangea arguta",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["WET"]
+  },
+  {
+    "inoa": "Kāwaʻu",
+    "description": "This long-lived tree species can grow to be 40 feet in height when fully mature and is commonly found in mesic to wet forests between 2,000 and 4,600 feet in elevation. It requires well-drained soils for optimal growth and can be cultivated in areas where it receives full sun or partial shade in areas of lower elevation, however, it does best in situations where it receives low light exposure. Kāwaʻu is wind tolerant and prefers environments that are relatively moist.",
+    "scientificName": "Ilex anomala",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Koa",
+    "description": "Koa is the largest endemic tree species in the Hawaiian Islands, which grows rapidly and can reach heights upwards of 100 feet when fully mature, creating an open and wide-spreading canopy up to 40 feet or more. It is recommended that Koa be planted in areas upwards of 2,000 feet in elevation in spaces where it receives full sunlight. This tree species is not tolerant of salty, infertile, waterlogged soils, or areas where it is exposed to shade or high winds. It is also important to note that its surface roots can be easily damaged by human, animal, or vehicular traffic.",
+    "scientificName": "Acacia koa",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Koaiʻa",
+    "description": "Koaiʻa, which is a close relative to Koa, has a smaller stature when compared to Koa as it only grows to be around 30 feet in height when fully mature having a canopy spread of roughly 20 feet. It does best in areas where it receives full sun and is shown to be drought and wind tolerant. Koaiʻa thrives in dry and moist watering conditions having minimal watering requirements. Like Koa, its surface roots can be easily damaged by human, animal, or vehicular traffic and should be planted in an area where it is not exposed to these disturbances.",
+    "scientificName": "Acacia koaia",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Kokiʻo keʻokeʻo",
+    "description": "( ) – This Hibiscus species can grow up to 30 feet in height producing large fragrant flowers throughout most of the year. Kokiʻo keʻokeʻo likes to be grown in areas where it receives full to partial sunlight out of persistent strong winds and responds positively to nutrient-rich, moist soils that are well-drained. It has a variety of uses in the landscape as it can serve as an accent, a hedge, and a screening plant, and grows at a moderately fast rate.",
+    "scientificName": "Hibiscus arnottianus subsp. arnottianus",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Kōlea",
+    "description": "This endemic mid-canopy tree species is a beautiful specimen to include in any landscape and is easily identifiable by its striking liko (new growth) which ranges in color from light pink to magenta. Kōlea is commonly found in mesic to wet forests from 700 to 7,200 feet in elevation and can grow to be 30 to 50 feet tall when fully mature. It is not salt or drought-tolerant and does well in areas where it receives full or partial sunlight in wet, well-drained soils. Care must be taken when transplanting this species as its roots cannot tolerate agitation or disturbances.",
+    "scientificName": "Myrsine lessertiana",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Kolomona",
+    "description": "This low lying shrub or small tree can grow to be anywhere from 2 to 10 feet tall depending on the conditions and can be used as an accent, hedge, or as a screening plant. It is most commonly found growing in coastal to lowland mesic forests, anywhere from sea-level up to 4,000 feet in elevation. Although it can tolerate partial shade, Kolomona does best when it is grown in areas where it receives full sunlight. It responds positively to light, well-drained soils and is shown to be drought and heat tolerant.",
+    "scientificName": "Senna gaudichaudii",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "Kōpiko",
+    "description": "When fully mature, this endemic tree species can reach heights upwards of 40 feet and have a canopy cover of roughly 30 feet. It can be cultivated in a variety of habitat types from sea-level up to 5,000 feet in elevation in dry, mesic, and wet forest environments. Kōpiko requires moist, well-drained soils and prefers to be planted in areas where it receives partial sunlight.",
+    "scientificName": "Psychotria hawaiiensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Kou",
+    "description": "Kou is an evergreen tree species that is medium in size growing to be 30 to 50 feet in height with a spread of over 25 feet when fully developed. It is a great shade tree and can be used for screening purposes as well. It does best in full sun, is salt-tolerant, and requires substantial amounts of water until it is fully established. It is important to note that this tree species has a shallow root system that can be damaged by continuous surface disturbances so it is best to plant it in areas where it is not susceptible to heavy foot or vehicular traffic.",
+    "scientificName": "Cordia subcordata",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Kūkaenēnē",
+    "description": "This sprawling groundcover is commonly found growing in open areas like lava and cinder fields from about 4,000 to 8,500 feet in elevation. As an early successional plant species, Kūkaenēnē can tolerate dry conditions and can grow in areas where there is very little soil or organic material. It does best in areas where it receives full or partial sun but can also grow in the shade as an understory plant. Kūkaenēnē is tolerant of drought, wind, as well as soils that are wet for prolonged periods of time.",
+    "scientificName": "Coprosma ernodeoides",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "WET"]
+  },
+  {
+    "inoa": "Kūpaoa",
+    "description": "Kūpaoa is characterized by being an early successional  sprawling ground cover or soft shrub. It is primarily found in barren lava flows or pioneer lava shrubland communities where there is very little soil, in elevations between 250 to 8,000 feet. This species, which is in the sunflower family, occupies sites that receive roughly 24 to 250 inches of rainfall annually and can withstand some of the most inhospitable environmental conditions as it is exposed to very dry, hot, and wind-exposed circumstances.",
+    "scientificName": "Dubautia scabra",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Lama",
+    "description": "Depending on its location and habitat type, Lama can be a dominant component of dry, mesic, and lowland wet forests ranging in elevation from 15 to 4,000 feet. This is a slow-growing tree species that is relatively easy to maintain once it becomes fully established. It does best in areas where it receives full to partial sun but can tolerate moderate amounts of shade as well. It is drought and wind tolerant, and it is suggested to plant Lama with other native shrubs and ground covers that prefer to be cultivated in dry conditions.",
+    "scientificName": "Diospyros sandwicensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Laukahi",
+    "description": "Also known as ‘Iʻo nui, this indigenous evergreen fern can grow up to 4 feet in height with its fronds extending outwards from its central crown. This fern is commonly found growing in montane mesic and wet forests as well as subalpine mesic shrublands. It does best in moist, well-drained soils that are periodically wet in areas where it is out of the full sun and in partial shade. Laukahi requires very little maintenance once it is established and is known to be somewhat drought tolerant.",
+    "scientificName": "Dryopteris wallichiana",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Loulu",
+    "description": "There are over two dozen endemic Pritchardia species in Hawaiʻi which can be characterized as slow-growing, hardy fan palms that can grow to 20 feet in height when fully mature. Loulu can be grown in dry, mesic, and wet forest environments up to 1,500 feet in elevation and prefers to be planted in areas where it gets full sun in well-drained, moderately wet soils. It is drought, salt, and wind tolerant, and unlike other fan palms, it is relatively low maintenance as it does not produce large amounts of leaf or seedpod litter.",
+    "scientificName": "Pritchardia spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "WET"]
+  },
+  {
+    "inoa": "Maiapilo",
+    "description": "This woody shrub has multiple uses in the landscape as it can serve as an accent or hedge, while also being a good ground cover in dry coastal areas and/or open lava substrates. It does best in elevations between sea-level and 500 feet and is highly drought, salt, wind, and heat tolerant. Maiapilo prefers to be grown in areas where it receives full sun and in soils that are well-drained. It requires frequent watering until it becomes fully established and it is recommended that watering schedules be reduced during periods of prolonged heavy rain.",
+    "scientificName": "Capparis sandwichiana",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "Maile",
+    "description": "Maile is an endemic vine that commonly occurs in shady, moist environments from 500 to 3,000 feet in elevation. It does well as an understory plant species as it can climb and grow on other native shrubs or tree species. It prefers to be cultivated in areas where it receives full or partial sunlight, and for best results plant it in nutrient-rich, well-drained soils. It is somewhat drought tolerant but if planted in areas with full sun it may require more frequent watering. Another important note is that it is not salt-tolerant.",
+    "scientificName": "Alyxia stellata",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Māmaki",
+    "description": "Māmaki grows in a variety of habitats from sea-level to 3,000 feet in elevation in areas where it is exposed to full sun, partial sun, or is heavily shaded. It responds positively to added organic material such as mulch, or grass clippings and requires substantial amounts of water. This fast-growing species is a valuable understory plant as its leaves can block sunlight preventing unwanted understory plants from germinating. It is also useful for attracting butterflies and for native habitat rehabilitation projects.",
+    "scientificName": "Pipturus albidus",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Māmane",
+    "description": "Māmane is a nitrogen-fixing tree that is commonly found in dry to mesic forests in areas from 1,500 to 10,000 feet in elevation. It grows best in areas where it receives full sun in well-drained soils. This tree species is drought, wind, and fire-tolerant when it is fully mature but does not tolerate clay soils or coastal environments where it is exposed to salt spray. To increase the chance of survival, Māmane seedlings should be protected from intense direct sunlight, strong winds, and heavy rain events until they are roughly a foot in size.",
+    "scientificName": "Sophora chrysophylla",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Manono",
+    "description": "This endemic species is highly variable in its form as it can be described as a liana, shrub, and tree. When fully mature, it can be anywhere from 6 to 30 feet in height and have a spread of more than 10 feet. Manono is commonly found in mesic to wet forests from 850 to 7,000 feet in elevation and is relatively easy to grow. It should be cultivated in an area where it receives partial sun or under other plants for added protection and likes moist well-drained soils.",
+    "scientificName": "Kadua affinis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Manono",
+    "description": "K. centranthoides is a sprawling shrub with stems growing to be 6 feet long depending on the environment in which it is being grown. It is commonly found from about 1,200 to 6,300 feet in elevation in pioneer lava substrates, wet forests, and occasionally in mesic forests as well. This plant requires very little maintenance once it becomes established and prefers to be grown in areas where it receives full or partial sun, in moist to wet well-drained soils.",
+    "scientificName": "Kadua centranthoides",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Maʻo",
+    "description": "Also known as Hawaiian cotton, this low-lying ground cover or shrub reaches 2 to 6 feet in height and produces attractive bright yellow flowers. It does best in lowland coastal areas up to dryland forests in elevations from sea-level up to 1,000 feet. Maʻo does best when it is planted in areas where it receives full sunlight in light, well-drained soils. It is drought, wind, heat, and salt-tolerant and requires very little water once they become fully established.",
+    "scientificName": "Gossypium tomentosum",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Maʻo hau hele",
+    "description": "This endemic Hibiscus is a great specimen to include in a variety of landscapes and with all Hibiscuses, it can be easily groomed to your desired height or shape. Maʻo hau hele does best in areas where it receives full sun and is capable of growing in both wet and dry environments. It is a fast-growing, low maintenance plant that is both heat and drought tolerant, but, it can be overwatered resulting in anaerobic soil conditions that may negatively impact plant viability. It is also important to note that due to its shallow root system, it is susceptible to high wind events that may cause it to uproot and fall over.",
+    "scientificName": "Hibiscus brackenridgei",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Milo",
+    "description": "Milo is a dense evergreen tree species that can grow to 40 feet in height with a spread of 30 to 40 feet when fully mature and is commonly found in coastal areas up to about 1,000 feet in elevation. It can be used as a screen or windbreak, as well as being a great specimen for providing shade. This tree species grows best in full sun and is adaptable to a variety of soil conditions including clay, sand, cinder, and coral-based soils. It does not respond positively to heavy pruning and is salt, drought, wind, and heat tolerant.",
+    "scientificName": "Thespesia populnea",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Naio",
+    "description": "Found in a variety of habitats and comprising multiple growth forms, Naio can be found in coastal environments, lava fields, as well as mesic to wet forests from sea- level up to 8,000 feet in elevation. Naio is a hardy shrub or tree species that can be grown in both moist and dry conditions but requires full sun and soil with good drainage to succeed. It is drought, heat, wind, and salt-tolerant and should only be watered during times of prolonged drought conditions once it is fully established.",
+    "scientificName": "Myoporum sandwicense",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Nanea",
+    "description": "Nanea is a slender, climbing perennial herb that is commonly found in coastal habitats sprawling on the ground or growing up trees and shrubs. As a member of the Fabaceae family, this nitrogen-fixing plant will provide other plants with readily available nitrogen and can be used in open, sunny areas as a ground cover and to mitigate erosion. It does best in well-drained soils where it receives full sun and is drought, wind, heat, and salt-tolerant.",
+    "scientificName": "Vigna marina",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "Nānū",
+    "description": "This endemic Gardenia species has many uses in the landscape as it can serve as an accent, hedge, a shade tree, and as a screening plant which can grow to be 30 feet high with a canopy spread of 10 to 15 feet when fully mature. Nānū does best in dry to mesic forests from 1,000 to 2,000 feet and when it is cultivated in areas where it receives full sunlight. Like other Gardenia species, Nānū is easy to grow as it requires little maintenance once it is established and can be grown in a variety of soil types. This endemic Gardenia species is drought and wind  tolerant.",
+    "scientificName": "Gardenia brighamii",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Naupaka kahakai",
+    "description": "Naupaka kahakai is easy to grow and is an indigenous coastal shrub that can grow up to 10 feet in height when fully mature. This plant species has a variety of uses in the landscape as it can serve as a hedge, a screening plant, provide shade, as well as helping to prevent erosion. It thrives in full sun environments but tolerates shady areas as well and is salt, wind, heat, and drought tolerant. It requires well-drained soils such as sand, cinder, or coral and as a species that has been shown to help prevent erosion, it binds sand in coastal habitats.",
+    "scientificName": "Scaevola taccada",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "WET"]
+  },
+  {
+    "inoa": "Neneleau",
+    "description": "This endemic tree species is found in a variety of locations throughout Hawaiʻi Island between 500 to 7,000 feet in elevation. It grows to be 15 to 25 feet when fully mature and is relatively easy to cultivate. Neneleau responds positively when it is grown in  well-drained soils, it can tolerate both wet and dry conditions, and does best in areas where it is exposed to full or partial sun. Neneleau can reproduce by seed dispersal and suckers so it is recommended to consider those growth traits before outplanting this species.",
+    "scientificName": "Rhus sandwicensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻOhai",
+    "description": "ʻOhai is an endemic plant species that can grow to be a small hedge, tree, or be a sprawling shrub that can encompass a 15 to 45-foot area in its prostrate form. It is most commonly found growing in low elevation dry habitats from sea-level up to 3,000 feet. This species does best in dry areas where it receives full sun and is planted in well-drained soils. As a dry coastal plant species, ʻOhai is drought, wind, salt, and heat tolerant. It is important to note that excessive watering will lead to this cultivar becoming a host to a variety of pests and fungal diseases.",
+    "scientificName": "Sesbania tomentosa",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "ʻOhe makai",
+    "description": "This is a long-lived endemic tree species that can grow to be 15 to 50 feet tall when fully mature with the canopy spreading over 60 feet. ʻOhe makai is relatively easy to grow and maintain when it is cultivated in drier habitats that have loose free-draining cinder based soils. It grows best in areas where it is exposed to full sun and is drought, wind, and heat tolerant. As a drought-tolerant plant, ʻOhe makai  can survive in extremely dry, drought-like conditions and will likely perish if there is consistently too much moisture in the soil from excessive watering.",
+    "scientificName": "Polyscias sandwicensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "ʻOhe mauka",
+    "description": "( )  ʻOhe mauka is an easy to grow, hardy tree species that is found in mesic to wet forest environments from about 500 to 3,000 feet in elevation. Both species are better suited for areas of higher elevation and do well in well-drained cinder and nutrient-rich organic soils. They have the ability to grow in areas where it is exposed to both full and partial sunlight and is somewhat drought tolerant as it requires periodic watering or rainfall to keep the soil moist.",
+    "scientificName": "Polyscias oahuensis & P. hawaiensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "ʻŌhelo",
+    "description": "ʻŌhelo likes to grow in open areas as erect or sprawling shrubs in mesic to wet forests ranging from 1,600 to 6,000 feet in elevation. This is a long-lived, slow-growing shrub that can reach up to 15 feet in height when fully mature. It prefers well-drained cinder based soils and likes to be cultivated in areas where it is exposed to full or partial sunlight. As a species that is in the same genus as Blueberries and Cranberries, ʻŌhelo has a shallow root system that can be negatively impacted by dry/drought-like conditions and requires moist to wet soils to survive.",
+    "scientificName": "Vaccinium reticulatum",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻŌhelo kau lāʻau",
+    "description": "ʻŌhelo kau lāʻau is the largest and tallest of all three native Vaccinium species, with this species growing over 15 feet tall and being at least 6 feet wide when fully mature. Besides the difference in growth form, V. calycinum’s growth requirements are similar to the ones listed above which can be used as a guide for its cultivation.",
+    "scientificName": "Vaccinium calycinum",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻŌhiʻa lehua",
+    "description": "ʻŌhiʻa lehua is one of the most common and highly variable tree species found throughout the island of Hawaiʻi. It can be found growing from sea-level up to 7,200 feet in elevation and is highly variable in its growth form as it can be seen in nature as a shrub, or small to large tree. This endemic species is relatively easy to grow as it tolerates a broad range of soil conditions, temperature regimes, and elevation gradients. It has good wind and drought tolerance but can only tolerate moderate levels of salt spray.",
+    "scientificName": "Metrosideros polymorpha",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻŌlapa",
+    "description": "This endemic species is commonly seen in mesic or wet forests as a shrub or tree. It grows to be 50 feet in height when fully mature and is characterized by having shiny leaves that appear in groups of three fluttering in the wind. ʻŌlapa prefers to be grown in cooler conditions and does best in areas where it is exposed to full sun to partial shade. This species requires moist, well-drained soils and is not salt- tolerant. In addition, weeds can absorb the      much-needed water required by this tree species, and burying the lower portion of the trunk can cause it to die.",
+    "scientificName": "Cheirodendron trigynum",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Olopua",
+    "description": "Olopua is an endemic tree species that can grow up to 50 feet in height and have a spread of 30 feet or more when fully mature. Like many other endemic species, Olopua is a slow-growing tree that requires very little maintenance once established. It does best in areas where it receives full sun and has been shown to be able to tolerate both dry and moist soil conditions. This tree species is drought and wind tolerant and likes to be planted in well-drained soils that consist of cinder and nutrient-rich organic material.",
+    "scientificName": "Nestegis sandwicensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Paʻiniu",
+    "description": "Paʻiniu is a perennial herb defined by its silvery rosettes and is commonly found growing on trees (epiphytically) or in the understory of montane wet forests. They are commonly found in elevations from 2,000 to 5,000 feet and require cool and moist conditions where it receives ample amounts of water. It does best in areas where it receives partial or full shade which makes it a great choice for filling in areas that are heavily shaded. Its growth rate is slow-to- moderate and it cannot tolerate salt or habitual wind exposure.",
+    "scientificName": "Astelia menziesiana",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["WET"]
+  },
+  {
+    "inoa": "Palapalai",
+    "description": "Growing to be 2 to 3 feet in height and having a 3 to 5-foot spread, Palapalai forms an excellent ground cover that is easy to grow and easy to maintain. It does well as an understory plant species under large trees or shrubs where its clump size can increase relatively quickly. This indigenous fern does best in areas that are partially shaded, wind-protected, and in moist soils that are not clay-like or become easily waterlogged. It does poorly in areas where it is exposed to direct sunlight and elevated temperatures.",
+    "scientificName": "Microlepia strigosa",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Pāpala kēpau",
+    "description": "Pāpala kēpau is a large shrub or small tree species that can grow to be 50 feet tall under ideal growing conditions. It produces very sticky fruits that were once used by ancient Hawaiians to trap native birds and collect their vibrant colored feathers. It is most commonly found growing in dry to mesic forest environments anywhere from 1,200 to 3,000 feet in elevation and do best when they are cultivated in areas where they receive full to partial sunlight. It is recommended to plant them in moist, nutrient-rich,  well-drained soils.",
+    "scientificName": "Pisonia brunoniana",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Pāwale",
+    "description": "This endemic, low sprawling shrub is commonly found colonizing new aʻa and pahoehoe lava substrates in Kona, Puna, and southern Kāʻu as an early successional plant species in areas from 2,000 to 12,000 feet in elevation. As a species that can tolerate barren lava substrates, Pāwale does best in areas where it receives full sun and requires very little maintenance once it becomes established. It does best in loose, well-drained soils and can tolerate hot, dry, and windy conditions, but it is suggested to water it periodically during times of prolonged drought.",
+    "scientificName": "Rumex spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["WET"]
+  },
+  {
+    "inoa": "Pilo",
+    "description": "There are 13 endemic species in the genus Coprosma. Pilo has many forms and can vary depending on its habitat as it can be a low sprawling shrub or a spindly tree with multiple branches. It is commonly found in areas from 1,200 to 8,000 feet in elevation growing in mesic, wet, and even subalpine forests under a variety of light conditions. It does best in nutrient-rich, well-drained soils.",
+    "scientificName": "Coprosma spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Pōhinahina",
+    "description": "Pōhinahina is a low lying medium-sized vine or shrub-like species that can encompass large areas under the right circumstances. It is an excellent plant to incorporate into landscapes of lower elevations as it is extremely salt, heat, wind, and drought tolerant. This species likes to be grown in areas where it receives full sun with plants becoming more sparse and leggy when grown in heavily shaded areas that receive excessive amounts of water. It does best in light, well-drained soils that consist of clay, sand, cinder, or coral.",
+    "scientificName": "Vitex rotundifolia",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "WET"]
+  },
+  {
+    "inoa": "Pōhuehue",
+    "description": "Pōhuehue is a herbaceous vine that spreads rapidly, rooting at each node, forming a mat like groundcover that can be useful for mitigating erosion. It is most commonly found on sandy beaches, marshes, and occasionally in areas of lower elevation and is drought, wind, salt, and heat tolerant. Plant in soils that are loose and well-drained. In addition, Pōhuehue must be grown in areas where it receives full sun as it is shade intolerant. Shady environments combined with excessive watering can promote harmful fungal growth.",
+    "scientificName": "Ipomoea pes-caprae",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY"]
+  },
+  {
+    "inoa": "Pua kala",
+    "description": "Pua kala is an endemic non-woody herbaceous plant species that is relatively easy to grow and is a beautiful addition to any landscape. It grows in elevations from sea-level up to 6,200 feet and is one of the few endemic plant species that can tolerate extremely dry drought-like conditions while also being able to withstand hot and windy conditions and hardpan soils. For best growing and flowering potential, grow in areas where it receives full sun. Frequent overwatering can lead to these plants becoming top heavy causing them to fall over instead of standing tall.",
+    "scientificName": "Argemone spp.",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Pūkiawe",
+    "description": "This indigenous shrub species inhabits a variety of different areas in the wild from low elevation mesic forests to montane wet forests and up to the cool and dry subalpine shrublands. Although it is most commonly seen as a shrub, in some circumstances it can grow to be upwards of 12 feet high with a spread of about 6 to 8 feet resembling something similar to a tree. It can be cultivated in areas where it receives full or partial sunlight in light, well-drained soils. It is wind, heat, and slightly salt- tolerant as well.",
+    "scientificName": "Leptecophylla tameiameiae",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻUhaloa",
+    "description": "ʻUhaloa is an indigenous sprawling shrub that is commonly found growing from sea-level up to 4,000 feet in elevation. This plant species requires very little maintenance once it becomes established and is a great plant for native forest restoration as it can colonize newly cleared areas in coastal or dryland forest habitats. It does best when it is grown in areas where it receives full sun in well-drained soils  and is drought, wind, heat, and salt-tolerant.",
+    "scientificName": "Waltheria indica",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "ʻUki",
+    "description": "ʻUki is a non-woody, clumping sedge that has rhizomes or stolons as its root system. This species is found in a variety of habitats ranging from deserts to montane wet forests as well as pioneer lava shrublands growing in elevations from about 1,300 to 7,000 feet. It likes to be grown in open areas where it receives full or partial sunlight and is known to be wind tolerant. ʻUki likes wet, and well-drained soils that are comprised of cinders mixed with light organic materials.",
+    "scientificName": "Machaerina angustifolia",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻUkiʻuki",
+    "description": "ʻUkiʻuki is a relatively common perennial herb that is easy to grow and is best outplanted as an understory plant with trees, shrubs, and other ground covers. As it becomes more developed, it can have a 3 to 5-foot spread which makes it a good plant for filling in open areas in the landscape. It can be cultivated in spaces where it receives full or partial sunlight, in addition to areas that are heavily shaded. It is drought, wind, salt, and heat tolerant and likes to be grown in soils that have good drainage.",
+    "scientificName": "Dianella sandwicensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻŪlei",
+    "description": "This indigenous evergreen species thrives in both moist and dry areas as a tree growing up to 14 feet in height at higher elevations, and as a low sprawling ground cover at sea-level. ʻŪlei is a hardy plant that requires very little maintenance once established and has a variety of uses in the landscape as it can serve as a ground cover, hedge, and/or screening plant, while also helping to mitigate erosion. It does best in areas where it receives full to partial sunlight in well-draining soil. ʻŪlei is also drought, wind, and heat-tolerant while being somewhat salt-tolerant as well.",
+    "scientificName": "Osteomeles anthyllidifolia",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Wiliwili",
+    "description": "Wiliwili is a large dryland forest tree species that can grow to be 18 to 45 feet tall depending on the location and conditions in which it is grown. This tree species grows at a moderately fast rate and does well in dry, lowland elevations between sea-level and 2,500 feet. It is recommended to plant this endemic tree species in a dry location where it receives full sunlight in well-drained soils.",
+    "scientificName": "Erythrina sandwicensis",
+    "simpleInoa": "",
+    "categoryType": "NATIVE",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Aloe",
+    "description": "The species within the Aloe genus can be low lying groundcovers or can grow relatively tall developing a hedgelike appearance. It can be grown from sea-level up to 3,000 feet in elevation and does best in areas where it receives full sun but can also be grown in partial shade. Aloe needs light, well-drained soils for it to survive and requires very little maintenance once it becomes fully established. Most of the species within this genus are drought, wind, and salt- tolerant.  HPWRA score: (Low Risk).",
+    "scientificName": "Aloe spp.",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "ʻApe",
+    "description": "Also known as Giant Taro or Elephant’s Ear, this Polynesian introduction grows rapidly up to heights of 12 feet producing large leaves that resemble those of Taro. ʻApe can be grown in areas where it is exposed to full sun or partial shade, and also do well in the understory of closed-canopy forest environments. It grows best when it is cultivated in rich, organic, moist soils that are well-drained. This plant species is not salt or wind tolerant and should be planted in an area where it is not subject to frequent wind flow or disturbances. No HPWRA score available.",
+    "scientificName": "Alocasia macrorrhizos",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻAwa",
+    "description": "ʻAwa grows as a well-rounded branching shrub ranging in size from 4 to 12 feet tall depending on the habitat in which it is grown. It is commonly found in shaded to open mesic valleys and is most commonly propagated from freshly harvested cuttings. When planting in the landscape, it is best to wait until the wet and rainy months of winter and should be grown in areas where it is exposed to full to partial sun in well-drained soils. ‘Awa is not wind tolerant so it should be planted in an area where it is not exposed to strong winds. HPWRA score: -4 (Low Risk).",
+    "scientificName": "Piper methysticum",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻAwapuhi",
+    "description": "ʻAwapuhi, also known as Shampoo ginger, is a clump-forming perennial herb that is commonly found in the understory of mesic forests. Going dormant during the winter months and losing all of its foliage, it regenerates and grows back in the spring. This species of ginger rarely grows taller than 3 feet and can colonize large areas of the landscape so it is best to cultivate it in open areas. It is a shade-loving understory plant that does best in moist soils and can be propagated by splitting and replanting its rhizomes. HPWRA score: -1 (Low Risk).",
+    "scientificName": "Zingiber zerumbet",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Azalea",
+    "description": "This evergreen shrub from Japan can reach heights of up to 6 feet while having an 8-foot span when fully mature. The flowers come in a variety of different colors and can be cultivated in multiple habitat types from lowland mixed forests up to areas of higher elevation. For Azaleas to do best, they need to be grown in areas where they are not exposed to direct sunlight in slightly acidic, well-drained soils. Mulch placed around the base of the tree will help retain moisture while also providing it with added nutrients. HPWRA Score: 4 (Low Risk).",
+    "scientificName": "Rhododendron indicum",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Blue Daze",
+    "description": "Blue Daze is a sprawling groundcover that forms a dense mat reaching 18 inches in height when fully developed. It produces showy blue flowers throughout most of the year and grows in a variety of lowland elevations up to 3,000 feet. This groundcover does best in areas that receive full to partial sunlight and can be useful for covering embankments where other species may be difficult to grow. It requires regular watering until it becomes fully established, is moderately drought tolerant, and cannot handle salt spray. HPWRA score: 0 (Low Risk).",
+    "scientificName": "Evolvulus glomeratus",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Calabash Tree",
+    "description": "Known as Laʻamia in Hawaiian, this round canopied evergreen tree species can grow to heights of 40 feet when fully mature. Calabash trees do best in lowland elevations where it is hot and dry requiring full sun and moist, well-drained soils for optimum plant viability. It is moderately drought, wind, and salt-tolerant and its unique branching structure makes this specimen useful for creating a shady understory.   HPWRA score: -8 (Low Risk).",
+    "scientificName": "Crescentia cujete",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Calamansi",
+    "description": "Calamansi is a popular citrus tree that is found in a variety of landscapes throughout Hawaiʻi. This evergreen tree species is relatively small when compared to other common citrus species but its nutrient-rich fruits are highly desirable for their use in marinades, cocktails, and more. Please use the references in the additional resources section for information on how to successfully cultivate Calamansi trees here in Hawaiʻi County.  HPWRA score: 0 (Low Risk).",
+    "scientificName": "Citrofortunella mitis",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Cape Honeysuckle",
+    "description": "Known as Iʻiwi haole in Hawaiian, this evergreen shrub can be useful as a hedge, screening plant, or to cover embankments growing up to 10 feet in height when fully mature. This plant species does best when it is grown in areas where it receives full sunlight and is planted in nutrient-rich, well-drained soils. It is relatively easy to grow and is shown to be wind, salt, and heat-tolerant while being slightly drought tolerant as well.  HPWRA score: 6 (Low Risk).",
+    "scientificName": "Tecoma capensis",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Cape Plumbago",
+    "description": "Cape Plumbago is a dense evergreen shrub species that can reach heights upwards of 6 feet bearing pronounced blue and white flowers throughout the majority of the year. It has multiple uses in the landscape as it can serve as a hedge, as a bank cover, or to brighten up your garden with its beautiful colored flowers. It likes to be grown in areas where it receives full sun in nutrient-rich, well-drained soils and is moderately salt, wind, heat, and drought tolerant. HPWRA score: 6 (Low Risk).",
+    "scientificName": "Plumbago auriculata",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Cardboard Palm",
+    "description": "This is a low-lying palm species that has fronds that extend up to 3 to 4 feet in height with an equal spread. It does best in lowland elevations up to 3,000 feet and prefers to be grown in full sun but can tolerate partial shade or full shade as well. Cardboard Palms grow well in light, well-drained soils and are salt, wind, heat, and partially drought tolerant as it requires regular watering until it becomes fully established.   HPWRA score: -2 (Low Risk).",
+    "scientificName": "Zamia furfuracea",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Chenille Plant",
+    "description": "Growing up to 8 feet in height when fully mature, this shrub species does best when it is cultivated in lowland elevations up to 3,000 feet. Also referred to as Red Hot Poker, this evergreen plant species likes to be grown in moist, nutrient-rich soils in areas where it receives partial sun to light shade. It requires frequent watering until it becomes fully established and responds positively when it is out planted in locations where it is out of direct wind and salt spray as it cannot withstand these conditions.  HPWRA score: 2 (Low Risk).",
+    "scientificName": "Acalypha hispida",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Common Hibiscus",
+    "description": "There are a variety of cultivars of Common Hibiscus in a variety of flower shapes, sizes, and colors. This evergreen species can reach heights of 15 feet when fully mature and has many uses in the landscape as it can serve as an accent, screen, or a hedge. It can be grown in areas where it receives full or partial sun and cultivated in a variety of soil types as long as it is well-drained. Common Hibiscuses are heat tolerant while being slightly salt and drought tolerant as well. HPWRA score: -2 (Low Risk).",
+    "scientificName": "Hibiscus rosa-sinensis",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Common Plumeria",
+    "description": "Plumeria’s have become an integral component of many tropical landscapes in Hawaiʻi as their beautiful scented flowers are used to make lei and for table decorations. In some circumstances, they can grow up to 35 feet in height and do best in areas below 3,000 feet in elevation. They require very little maintenance once they are fully established and do best in loose, well-drained soils in areas where they receive full sun. They are salt and drought tolerant and can tolerate moderate levels of wind as well. HPWRA score: -5 (Low Risk).",
+    "scientificName": "Plumeria rubra",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Copper Leaf",
+    "description": "This herbaceous shrub has dense foliage and is an ideal hedge or screening plant species that grows rapidly up to 15 feet in height when fully mature. Also known as Beefsteak plant, this hardy shrub is easy to grow, does best in lowland elevations up to 3,000 feet, and prefers to be grown in areas where it is exposed to full sun but tolerates partial shade as well. It is moderately drought and salt-tolerant and will grow in a variety of soil types with no special drainage required for its success.  HPWRA score: -2 (Low Risk).",
+    "scientificName": "Acalypha wilkesiana",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Coral Hibiscus",
+    "description": "Known as Aloalo koʻakoʻa in Hawaiian, this tall evergreen shrub grows to 15 feet in height when fully mature bearing its unique and attractive flowers throughout most of the year. It does best when it is grown in lowland areas up to 3,000 feet in elevation in places where it is exposed to full or partial sunlight. Coral Hibiscuses do well in most well-drained soils requiring a regular watering schedule until they become fully mature. This hibiscus species is not salt-tolerant but has been shown to tolerate slight heat and droughts. HPWRA score: -4 (Low Risk).",
+    "scientificName": "Hibiscus schizopetalus",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Croton",
+    "description": "This evergreen shrub can easily reach heights of 20 feet under the right conditions if not pruned regularly. It is a common and highly desirable plant to incorporate into any landscape as its foliage comes in many shapes, sizes, and colors. Crotons do best in lowland elevations between sea-level and 3,000 feet and like to be grown in moist well-drained soils in full or partial sun. It requires regular watering and is moderately drought and salt-tolerant while also being able to tolerate strong winds. HPWRA score: -4 (Low Risk).",
+    "scientificName": "Codiaeum variegatum",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Day Lily",
+    "description": "This is a moderately fast-growing herbaceous plant species that produces radiant flower blossoms in the spring, summer, and fall. It does best in lowland elevations up to 3,000 feet and likes to be cultivated in areas where it receives full sun. Day Lilies respond positively to moist, nutrient-rich, well-drained soils and can be used in flower beds, along borders, as accents, and to cover hills or embankments. It is moderately salt-tolerant and requires regular water until it becomes fully established. HPWRA score: -3 (Low Risk).",
+    "scientificName": "Hemerocallis fulva var. aurantiaca",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Desert Rose",
+    "description": "Desert Rose is a popular slow-growing shrub that does best when it is grown in lowland elevations from sea-level up to 3,000 feet and can reach heights up to 12 feet when fully mature. For Desert Rose to be successful, it must be grown in light, well-drained soils where it receives moderate amounts of water. It likes to be cultivated in areas where it receives full sun and can withstand heat, drought, and elevated levels of salt spray.   HPWRA score: -8 (Low Risk).",
+    "scientificName": "Adenium obesum",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Doña Luz Mussaenda",
+    "description": "This shrub species from the Philippines can grow up to 12 feet and flowers heavily from spring through fall making it an attractive plant in the landscapes where it is grown. It does best in lowland elevations to those greater than 3,000 feet and should be planted in an area where it receives full to partial sunlight. It responds positively to moist, nutrient-rich soils that are   well-drained, and is protected from strong winds. This plant species is not salt-tolerant and requires regular watering. HPWRA score: -5 (Low Risk).",
+    "scientificName": "Mussaenda cv. ‘Doña Luz’",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Dracaena",
+    "description": "There are five different species of Dracaena listed in the HPWRA index which are: D. draco, D. fragrans, D. marginata, D. marginata (tricolor), and D. reflexa, all of which have a low-risk designation. Most species are commonly found in landscapes and nurseries throughout Hawaiʻi and develop a round canopy when fully mature. It likes to be grown in areas where it receives full sun, it can tolerate a variety of soil types, and is highly drought and wind tolerant. HPWRA score: Scores vary by species (Low Risk).",
+    "scientificName": "Dracaena ssp.",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Dwarf Poinciana",
+    "description": "Also known as ʻOhai aliʻi in Hawaiian, this small evergreen tree species reaches 15 feet in height when fully mature while producing its vibrant colored flowers throughout most of the year. It does best in lowland elevations up to 3,000 feet where it is planted in loose, nutrient-rich, well-drained soils in full sun environments. It is drought, heat, and    salt-tolerant and is endorsed by CGAPS and BIISC as a pono plant species.   HPWRA score: 5 (Low Risk).",
+    "scientificName": "Caesalpinia pulcherrima",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "False Eranthemum",
+    "description": "This evergreen shrub can grow to heights of 10 feet when fully mature producing small white flowers throughout most of the year. It can be grown in lowland elevations to those greater than 3,000 feet and prefers to be cultivated in areas where they receive partial to full shade. They respond positively to moist, nutrient-rich, well-drained soils and are moderately drought and salt- tolerant as well. Its shape makes this species an ideal specimen for creating hedges or for screening purposes as well. HPWRA score: 1 (Low Risk).",
+    "scientificName": "Pseuderanthemum carruthersii",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Firecracker Plant ",
+    "description": "Known as Lōkālia in Hawaiian, this fast-growing evergreen species produces bright red flowers  year-round and can reach heights of 3 to 6 feet when fully mature. It does best in lowland areas from sea-level up to 3,000 feet thriving when it is planted in locations where it receives full sun in light, nutrient-rich, well-drained soils. Lōkālia is moderately drought tolerant while being salt and wind tolerant as well.   HPWRA score: -2 (Low Risk).",
+    "scientificName": "Russelia equisetiformis",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Gardenia",
+    "description": "There are six different species of Gardenia listed in the HPWRA index: G. jasminoides, G. latifolia, G. taitensis, G. thunbergia, G. tubifera, and G. volkensii all of which have low-risk designations. Generally speaking, most species require a regular watering regime and do best when planted in well-drained, nutrient-rich soils. Consult your local nursery provider on what species would work best at the location you plan on outplanting your Gardenias.    HPWRA score: Scores vary by species (Low Risk).",
+    "scientificName": "Gardenia ssp.",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Hau",
+    "description": "Hau is a fast-growing evergreen species in the Hibiscus family and can grow to be 30 feet in height when fully mature. It is commonly found and grown on beaches, along waterways, and lowland coastal areas. Its branches can form dense intertwined thickets and require regular pruning to make them grow in a straight or upright shape. H. tiliaceus is salt, wind, and heat tolerant and can withstand moderate drought conditions as well.  No HPWRA score available.",
+    "scientificName": "Hibiscus tiliaceus",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Ipu",
+    "description": "Ipu is a wide-spreading climbing vine that was traditionally planted at the end of the rainy season during the hua moon phase, 3 to 4 days before the full moon. This gourd requires additional support to facilitate its growth which can be provided by rock walls, trees, or even a trellis. This Polynesian introduction does best on the leeward side of the island below elevations of 1,500 feet requiring moderate levels of watering or rainfall and well-drained soils. Planting Ipu in an area that is protected from the wind will ensure prolonged plant health and viability. HPWRA: 0 (Low Risk).",
+    "scientificName": "Lagenaria siceraria",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Ixora",
+    "description": "Ixoras are a popular plant species that are found in landscapes throughout Hawaiʻi as they are highly desirable for their beautiful flowers which attract bees and other pollinator species. This evergreen shrub does best in lowland elevations up to 3,000 feet and likes to be planted in areas where it receives full to partial sunlight. They thrive when they are planted in well-drained soils and receive regular watering and additional nutrients. It cannot withstand salt spray and is useful for creating hedges, screening plants, or as an accent. HPWRA score: 0 (Low Risk).",
+    "scientificName": "Ixora chinensis",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Jaboticaba",
+    "description": "Jaboticaba is a slow-growing tree species native to Brazil that can reach heights of 25 feet when fully mature with a rounded canopy that can have a spread of 50 feet. It grows best in lowland areas to those greater than 4,000 feet in elevation and likes to be planted in deep, nutrient-rich, well-drained soils. Regular watering is an integral component of its success and because of its shallow root system, it is recommended to surround the base of the tree with mulch to help retain water during drought-like conditions. HPWRA score: -2 (Low Risk).",
+    "scientificName": "Myrciaria cauliflora",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Jackfruit",
+    "description": "This large tree species is native to India and produces the world’s largest edible fruit which grows directly off of its trunk and branches. Jackfruit does best in moist, nutrient-rich, well-drained soils in lowland elevations from above sea-level up to 3,000 feet. They like to be grown in areas where they receive full to partial sunlight and require regular water to maintain plant viability and health in short-term and long-term time frames. It is moderately       salt-tolerant and cannot withstand prolonged drought-like conditions. HPWRA score: 1 (Low Risk).",
+    "scientificName": "Artocarpus heterophyllus",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Jatropha",
+    "description": "This bushy evergreen tree species forms a rounded canopy growing up to 20 feet in height when fully mature. It does best in lowland elevations up to 3,000 feet and when it is planted in areas where it is exposed to full or partial sunlight. Jatrophas prefer   nutrient-rich, well-drained soils and are moderately salt and drought tolerant. As this tree species flowers year-round, it provides good fodder for pollinators and as a word of caution, all parts of this tree are poisonous to humans and animals. HPWRA score: 0 (Low Risk).",
+    "scientificName": "Jatropha integerrima",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Kalo",
+    "description": "Considered to be one of the most important plants in the Hawaiian culture, there are numerous varieties of Kalo (Taro) found throughout the Hawaiian Archipelago and are found growing in both wet and dry environments. It is most commonly propagated from cuttings or huli and is outplanted in dryland environments where it is provided with mulch or other organic materials and in lush valleys in flowing freshwater. Kalo varies in size which is determined by the location it is grown, sun exposure, and soil quality. No HPWRA score available.",
+    "scientificName": "Colocasia esculenta",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Kamani",
+    "description": "Known as Alexandrian Laurel in English, this is a slow-growing evergreen tree species that can grow to be 60 feet in height when fully mature developing a large canopy making it a great specimen for creating shade. As a result of its dense foliage, Kamani is an effective tree to use as a windbreak or screening plant. It does best in areas where it receives full sun to partial shade, tolerating a variety of soils, and is wind, salt, and drought tolerant.  HPWRA score: 6 (Evaluate).",
+    "scientificName": "Calophyllum inophyllum",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Kī",
+    "description": "Green ti has a slender stem with large green leaves having relatively few branches. It has become naturalized since its introduction and can be commonly found growing in mesic forests, valleys, and throughout many commercial and residential landscapes. In some circumstances, ti can grow to be 15 feet in height when fully mature and does best when it is cultivated in moist, nutrient-rich soils. Kī is moderately tolerant of salt spray and strong winds and does best in areas that receive light to partial shade. HPWRA score: 4 (Evaluate).",
+    "scientificName": "Cordyline fruticosa",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "Kō",
+    "description": "Like Kalo, there are multiple varieties of Kō which can be characterized as being large grasses that have hard stalks and long, pronounced blades. When fully mature, Kō, or Sugarcane, can grow to be 15 feet tall and is a nice accent to include in native gardens. It does best when it is grown in full sun in areas where it receives regular watering and is somewhat wind, salt, and drought tolerant.    HPWRA score: -2 (Low Risk).",
+    "scientificName": "Saccharum officinarum",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Kukui",
+    "description": "Kukui is a  fast-growing evergreen tree species with large, fully mature trees reaching roughly 60 feet in height. Commonly known as Candlenut, this Polynesian introduction is a natural component of mesic forests where it can be seen growing from sea-level up to 2,000 feet in elevation. It grows best in areas where it is exposed to full sun in moist, nutrient-rich soils that have good drainage. Although Kukui has a high-risk score, it has been here for hundreds of years and planting more is not likely to cause additional harm. HPWRA score: 12 (High Risk).",
+    "scientificName": "Aleurites moluccana",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Lemon",
+    "description": "Lemon trees are widely cultivated in Hawaiʻi and are adapted to a variety of locations and habitat types. While there may be other varieties of Lemon grown in Hawaiʻi, this is the only species of Lemon listed in the Hawaiʻi Pacific Weed Risk Assessment. Please use the references in the additional resources section for information on how to successfully cultivate Lemon trees here in Hawaiʻi County.   HPWRA score: -3 (Low Risk).",
+    "scientificName": "Citrus limon",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Lily of the Nile",
+    "description": "This slow-growing perennial herb can reach 4 feet in height and is easy to grow in full sun or areas where it receives partial shade. It can be grown in lowland areas to places greater than 3,000 feet in elevation and requires very little maintenance once it becomes established. This plant species can be cultivated in a variety of soil types and is partially heat, salt, and drought tolerant. The vibrant flower stocks can be used in arrangements or to make lei and attracts pollinators like birds, bees, and butterflies as well. HPWRA score: 2.5 (Low Risk).",
+    "scientificName": "Agapanthus africanus",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Lime",
+    "description": "Lime trees are widely cultivated in Hawaiʻi and are adapted to a variety of locations and habitat types. There are two species of Lime listed in the Hawaiʻi Pacific Weed Risk Assessment that have a low-risk designation which are: C. aurantiifolia, and C. latifolia. To select which variety of Lime would work best for your location/habitat type, please refer to the Hawaiʻi rainfall atlas to determine the elevation and annual precipitation rate at your property and consult with local nursery owners.  HPWRA score: Scores vary by species (Low Risk).",
+    "scientificName": "Citrus ssp.",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Lychee",
+    "description": "This evergreen tree species grows up to 40 feet developing a           widespread canopy when fully mature. As a result, this is a great shade tree that produces one of the most highly treasured fruits in Hawaiʻi today. Plant in lowland areas below 3,000 feet in elevation in nutrient-rich, well-drained soils. Young Lychee trees do best when they are cultivated in areas where they receive protection from direct sunlight and strong winds until they are fully established. They require ample amounts of water and can tolerate full sun when fully grown. HPWRA score: -6 (Low Risk).",
+    "scientificName": "Litchi chinensis",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Maiʻa",
+    "description": "Bananas are commonly found growing in lowland to mesic forest habitats and continues to be a staple food crop here in Hawaiʻi. This large perennial herb can grow up to 15 feet tall, producing leaves that can be up to 9 feet long and 2 feet wide. While Bananas can be grown in a wide range of habitats, they do best in areas where they receive regular rainfall in well-drained soils that retain moisture. If possible, keiki should be planted in areas that are not exposed to strong winds as they are susceptible to wind damage. HPWRA score: -11 (Low Risk).",
+    "scientificName": "Musa acuminata",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Mango",
+    "description": "Mangos are another common tree species that are cultivated in areas throughout Hawaiʻi as it is prized for its fruit that is enjoyed in a multitude of ways. They can grow to be anywhere from 20 to 100 feet tall and do best in lowland elevations below 3,000 feet in areas where they are exposed to full sun. It requires  well-drained soils and regular water and is shown to be moderately salt-tolerant. When selecting a variety for your landscape, it is critical to only choose species that coincide with the precipitation rates found at your location. HPWRA score: 1 (Low Risk).",
+    "scientificName": "Mangifera indica",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Niu",
+    "description": "Coconut palms grow at a moderate rate with it reaching heights of 100 feet when fully mature. This Polynesian introduction does best in areas of lower elevation (below 1,000 feet) but can be cultivated in areas up to 3,000 feet as well. It can grow in loose sandy soils along the coast making it a species that can be useful for mitigating erosion while also being capable of growing in soils further inland as well. Niu likes to be cultivated in areas where it receives full sun and is sun, heat, and wind tolerant.  HPWRA score: -4 (Low Risk).",
+    "scientificName": "Cocos nucifera",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Noni",
+    "description": "Noni represents a hardy small tree species that can grow up to 15 feet in height when fully mature while having a relatively large canopy area under certain circumstances. Due to its growth form, it can serve as a hedge, windbreak, or as a screening plant. It is wind, salt, and drought tolerant and prefers to be grown in areas where it receives full sun to partial shade. As a friendly reminder, fully ripened fruits have a very strong, pungent odor so it is best to grow this plant downwind from established dwellings.        HPWRA score: 10 (High Risk).",
+    "scientificName": "Morinda citrifolia",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻŌhiʻa ʻai",
+    "description": "ʻŌhiʻa ʻai or Mountain Apple, is fast-growing medium tree species that is most commonly found in wet, lowland elevations. Reaching heights of 45 feet when fully mature, ʻŌhiʻa ʻai requires very little maintenance and can be easily grown under the right conditions. It does best in areas where it receives full to partial sunlight, and regular water. It is not salt-tolerant, but it can tolerate a variety of soil types not requiring any special drainage.   HPWRA score: 0 (Low Risk).",
+    "scientificName": "Syzygium malaccense",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻOhe kahiko",
+    "description": "ʻOhe kahiko is a slow-growing clumping bamboo that develops canes that are roughly 2 inches in diameter and can reach 50 feet in height forming an open canopy. This Polynesian introduction can be grown in lowland mesic areas from 0 to 500 feet in elevation and requires regular water and well-drained nutrient-rich soils. It does best in full to partial sun, is not salt-tolerant, and is a useful specimen for mitigating erosion or runoff.  HPWRA score: 0 (Low Risk).",
+    "scientificName": "Schizostachyum glaucifolium",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC"]
+  },
+  {
+    "inoa": "ʻŌlena",
+    "description": "Also known as Turmeric, this perennial herb can be grown in lowland elevations up to 3,000 feet in elevation. It does best in areas where it is exposed to full sun or partial shade in nutrient-rich organic soils that are moist and well-drained. ʻŌlena is moderately salt-tolerant and requires regular watering for prolonged health and longevity. Like many other species in the ginger family, ʻŌlena is deciduous, losing its leaves 2 to 3 months out of the year returning to its original state once this cycle is complete.    HPWRA score: -8 (Low Risk).",
+    "scientificName": "Curcuma longa",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Orange",
+    "description": "Orange trees are widely cultivated in Hawaiʻi and are adapted to a variety of locations and habitat types. There are two species of Oranges listed in the Hawaiʻi Pacific Weed Risk Assessment that have a low-risk designation which are: C. reticulata and C. sinensis. To select which variety of Orange would work best for your location/habitat type, please refer to the Hawaiʻi rainfall atlas to determine the elevation and annual precipitation rate at your property and consult with local nursery owners to decide which variety would do best in your landscape. HPWRA score: -5 and  -2 (Low Risk).",
+    "scientificName": "Citrus ssp.",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Pia",
+    "description": "Pia, which is also referred to as Polynesian Arrowroot, is a  fast-growing species that does best in warm, windward areas below 800 feet in elevation. It prefers to be cultivated in wet conditions in light, well-drained soils that are continually moist. It can tolerate partial shade and full sun environments and like ‘Ōlena, it will die back during the winter season and will regrow again upon completion of this part of its natural cycle.   HPWRA score: 0 (Low Risk).",
+    "scientificName": "Tacca leontopetaloides",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Pineapple",
+    "description": "This herbaceous, low-lying shrub is a member of the Bromeliad family and is commonly found throughout gardens in Hawaiʻi. Pineapples do best in lowland elevations up to 3,000 feet and require very little maintenance once they become fully established. They thrive when they are planted in areas where they receive full sun and require well-drained soils as waterlogged soils will cause root rot resulting in mortality. It is salt and drought tolerant as it only requires water during prolonged dry periods and when it is first out planted. HPWRA score: 3 (Low Risk).",
+    "scientificName": "Ananas comosus",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Pua kenikeni",
+    "description": "Pua        kenikeni is an evergreen tree species that can grow up to 40 feet in height when fully mature forming a large and dense canopy. This medium tree species can be grown from areas of lower elevation up to 3,000 feet in areas where it receives full to partial sunlight. It requires a regular watering schedule to ensure continued survival and does best in  nutrient-rich, well-drained soils.    HPWRA score: -1 (Low Risk).",
+    "scientificName": "Fagraea berteroana",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Pua male",
+    "description": "Also known by its scientific name Stephanotis, this is a moderately fast-growing evergreen vine that can stretch over 30 feet from the central area where it is planted. Its vibrant and fragrant white flowers make a nice addition to any landscape and are frequently used in lei, arrangements, and bouquets. Pua male does best when it is supported by a fence or trellis and likes to be cultivated in areas where it receives full sun. It likes light, well-drained soils and is moderately heat, drought, and salt-tolerant. HPWRA score: -4 (Low Risk).",
+    "scientificName": "Stephanotis floribunda",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Rainbow Shower Tree",
+    "description": "( nealiae) – Rainbow Shower Trees are found in landscapes throughout Hawaiʻi and are defined by their beautiful flowers. It grows at a moderately fast rate reaching 40 feet in height when fully mature and does best in lowland elevations up to 3,000 feet. It prefers to be cultivated in areas where it receives full to partial sun and is planted in well-drained soils. This tree species has good drought tolerance but is not salt or wind tolerant as its shallow root system makes them vulnerable to falling over during periods of strong winds. HPWRA score: -8 (Low Risk).",
+    "scientificName": "Cassia x",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Red Spurge",
+    "description": "This evergreen tree species has inconspicuous flowers and bright showy leaves making it a nice accent or addition to landscapes where it can be cultivated. Under the right circumstances, this tree species can grow to be 20 feet in height when fully mature and does best in lowland elevation areas up to 3,000 feet. It does best when it is planted in areas where it receives direct sunlight in well-drained, nutrient-rich soils and is shown to be drought-tolerant but incapable of handling strong winds or salt spray. HPWRA score: -2 (Low Risk).",
+    "scientificName": "Euphorbia cotinifolia",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC", "WET"]
+  },
+  {
+    "inoa": "Singapore Plumeria",
+    "description": "Singapore Plumeria are similar to P. rubra with the biggest difference being the leaf shape, being semi-deciduous, and displaying flowers throughout most of the year. P. obtusa also does best in areas below 3,000 feet in elevation and can grow up to 35 feet in height when fully mature. This plumeria species thrives in hot, semidry conditions and prefers to be grown in areas where it receives full sun. It is also drought, and salt-tolerant and it is suggested to be planted in moist, well-drained soils for best results. HPWRA score: -6 (Low Risk).",
+    "scientificName": "Plumeria obtusa",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "Soursop",
+    "description": "Soursop is a small evergreen tree species that produces fruit multiple times throughout the year which does not require hand pollination like other species in the same genus. It does best in lowland elevations above the shoreline up to 3,000 feet in nutrient-rich soils that are well-drained. Plant this species in an area where it is exposed to full sunlight and receives regular water. Soursop is not salt or drought tolerant. The fruits have an extensive list of health benefits and it is important to note that the seeds are the only portion of the tree that are inedible. HPWRA score: -3 (Low Risk).",
+    "scientificName": "Annona muricata",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Spathiphyllum",
+    "description": "This is an herbaceous clumping plant species that has glossy green leaves and produces vibrant white to greenish white flowers. It does best in lowland elevations up to 3,000 feet and when it is cultivated in nutrient-rich, loamy soils that have good drainage. Spathiphyllum thrive in low light conditions, requires regular water and protection from the wind, and is not salt-tolerant. There are two species listed in the HPWRA index: S. Cannifolium and S. wallisii, both of which have a low-risk score. HPWRA score: Scores vary by species (Low Risk).",
+    "scientificName": "Spathiphyllum ssp.",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Spider Lily",
+    "description": "This small to medium evergreen shrub forms broad clumps up to 5 feet in height serving as an ornamental accent or border in the landscape. Spider Lilies grow best in lowland elevations up to 3,000 feet thriving in areas where it receives full sun. It prefers moist, well-drained soils and is tolerant of salt, drought-like conditions, and areas where it is covered by partial shade. Fragrant flower clusters are produced      year-round and can be incorporated into leis or flower arrangements.  HPWRA score: -4 (Low Risk).",
+    "scientificName": "Crinum asiaticum",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Starfruit",
+    "description": "This is a slow-growing evergreen tree species that can grow up to 20 feet in height and is easy to cultivate in a variety of landscapes throughout Hawaiʻi County. Starfruit does best in elevations lower than 1,500 feet in nutrient-rich, well-drained loamy soils and does poorly in oxygen-deficient waterlogged soils. Plant Starfruit trees in areas where they will receive full sun and away from locations where it is exposed to salt spray as it has a low salt-tolerance.   HPWRA score: -1 (Low Risk).  Photo credit:        66   Turk’s cap (Malvaviscus penduliflorus) – Also known as Pahūpahū, this evergreen shrub is a relative of Hibiscus which can be identified by its similar leaf, flower, and growth form. It can grow up to 15 feet in height when fully mature and grows best in lower elevations from sea-level to 3,000 feet. It does best in areas where it receives full sun in moist, well-drained soils. It is shown to be slightly salt-tolerant and requires regular watering until it becomes fully established.  HPWRA score: -9 (Low Risk).",
+    "scientificName": "Averrhoa carambola",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "ʻUala",
+    "description": "ʻUala, also known as Hawaiian Sweet Potato, is a sprawling vine that acts as a ground cover with heart-shaped leaves that range in color from green to deep purples depending on the variety. It does best in lowland elevations between 0 to 3,000 feet in areas where it receives full to partial sunlight. It is shown to be drought, somewhat salt-tolerant, and has the ability to effectively reduce soil erosion. One additional requirement for the best results is well-drained, nutrient-rich soils. HPWRA score: 2 (Low Risk).",
+    "scientificName": "Ipomoea batatas",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Uhi",
+    "description": "Uhi is another edible Polynesian introduction that can be incorporated into functional forest habitats. It can be grown from 15 to 2,000 feet in elevation and is a  fast-growing, climbing vine that likes to be supported by the trunks of trees or trellises. This yam species requires fertile, nutrient-rich soils and grows best in areas where it receives full sunlight. Uhi is not drought tolerant as it requires ample amounts of water during the growing season and is therefore suggested to plant it in areas that receive elevated levels of rainfall. No HPWRA score available.",
+    "scientificName": "Dioscorea alata",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["DRY", "MESIC"]
+  },
+  {
+    "inoa": "ʻUlu",
+    "description": "Also known as Breadfruit, ʻUlu is a large evergreen tree species that can grow up to 60 feet in height when fully mature. It is primarily cultivated in areas of lower elevation from 0 to 500 feet and is a highly desirable species that is known for its ornamental foliage and large edible fruits. ʻUlu does best in areas where it is exposed to full to partial sunlight and is not wind, salt, or drought-tolerant as it will defoliate if it experiences interruptions in watering schedules or periods of prolonged drought conditions. HPWRA score: -12 (Low Risk).",
+    "scientificName": "Artocarpus altilis",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Wauke",
+    "description": "Also known as Paper Mulberry, Wauke is a fast-growing small tree species that can reach heights of 15 feet when fully mature. It does best in areas where it receives full sun to partial shade, requiring substantial amounts of water to ensure proper growth and prolonged plant viability. It is slightly salt-tolerant and requires loose well-drained soils. As a result of its growth form, Waukes abundant root suckers prevent other species from growing in close proximity to its base.  HPWRA score: 3 (Low Risk).",
+    "scientificName": "Broussonetia papyrifera",
+    "simpleInoa": "",
+    "categoryType": "INTRODUCED",
+    "moisture": ["MESIC", "WET"]
+  },
+  {
+    "inoa": "Yesterday, Today, and Tomorrow",
+    "description": "This shrub species develops a dense crown or hedge-like shape when fully mature and gets its name from the flower’s colors fading from a vibrant lavender to white as they age. It does well in most elevations as it can be grown from lowland areas to places upwards of 3,000 feet and does best when it is exposed to partial shade. This plant can be cultivated in a variety of soil types, requires regular water until it becomes fully established, and is not tolerant of salt spray.  HPWRA score: -3 (Low Risk).",
+    "scientificName": "Brunfelsia australis",
+    "simpleInoa": "",
+    "categoryType": "ALIEN",
+    "moisture": ["MESIC", "WET"]
+  }
+]
